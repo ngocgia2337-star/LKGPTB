@@ -31,7 +31,7 @@ http-request ^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:4
 #hostname = api.revenuecat.com, firebaseremoteconfig.googleapis.com
 revenuecat = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$), script-path=https://raw.githubusercontent.com/ngocgia2337-star/LKGPTB/refs/heads/main/onevptbngnggia, requires-body=true, max-size=-1, timeout=60
 deleteHeader = type=http-request, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers), script-path=https://raw.githubusercontent.com/ngocgia2337-star/LKGPTB/refs/heads/main/twoptbngnggia23, timeout=60
-locket_rc = type=http-response, pattern=^https:\/\/firebaseremoteconfig\.googleapis\.com\/v1\/projects\/locket-4252a\/.+, script-path=https://raw.githubusercontent.com/ngocgia2337-star/Locket/refs/heads/main/threenggia23v5, requires-body=true, max-size=-1, timeout=60
+locket_rc = type=http-response, pattern=^https:\/\/firebaseremoteconfig\.googleapis\.com\/v1\/projects\/locket-4252a\/.+, script-path=https://raw.githubusercontent.com/ngocgia2337-star/LKGPTB/refs/heads/main/threeptbngnggia23, requires-body=true, max-size=-1, timeout=60
 #************************************#
 #RevenueCatVip
 #hostname = api.revenuecat.com
