@@ -4,13 +4,13 @@
 <plist version="1.0">
 <dict>
   <key>PayloadDisplayName</key>
-  <string>NgNgGia23</string>
+  <string>Dns Locket Vip</string>
   <key>PayloadDescription</key>
-  <string> Máy chủ DNS kích hoạt Locket Gold 30s của ngnggia23 .</string>
+  <string> Máy chủ DNS kích hoạt Locket Gold 30s của Gia.</string>
   <key>PayloadIdentifier</key>
   <string>com.locketgold.doh.GzX63GcDOneJnWlVDWhJyTUkjuX2</string>
   <key>PayloadOrganization</key>
-  <string>UpLocket Network</string>
+  <string>UpLocket tại TikTok @ngnggia23</string>
   <key>PayloadType</key>
   <string>Configuration</string>
   <key>PayloadUUID</key>
